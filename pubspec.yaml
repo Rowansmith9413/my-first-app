@@ -1,4 +1,4 @@
-// pubspec.yaml
+# pubspec.yaml
 name: my_first_app
 description: A skill learning tracker app.
 publish_to: 'none'
